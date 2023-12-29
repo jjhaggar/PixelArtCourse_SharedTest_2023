@@ -1,0 +1,10 @@
+git add Ary/
+git status 
+
+git commit -m "mi primer commit"
+git config --global user.email "pallasurencio@gmail.com"
+git config --global user.name "Ary1993"
+
+git push 
+
+git pull 
